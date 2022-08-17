@@ -1,1 +1,4 @@
+.DS_Store
 /target
+.idea
+spotify_api_server.iml
